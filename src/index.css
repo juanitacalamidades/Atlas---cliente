@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'CooperBlackStd';
+  src: local('CooperBlackStd'), url(./fonts/CooperBlackStd.otf) format('opentype');}
+
+  @font-face {
+    font-family: 'MinionPro-Cn';
+    src: local('MinionPro-Cn'), url(./fonts/MinionPro-Cn.otf) format('opentype');}
